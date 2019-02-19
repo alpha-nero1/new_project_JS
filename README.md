@@ -2,8 +2,8 @@
 
 To run the project, do the following:
 
-1. Enter the project directory and run: npm run watch
-2. In a seperate terminal in the same directory run: tsc -w
+1. Enter the project directory and run: `npm run watch`
+2. In a seperate terminal in the same directory run: `tsc -w`
 
 This will ensure that the client and server are run simultaneously and using nodemon (look at package.json script for more details).
 
